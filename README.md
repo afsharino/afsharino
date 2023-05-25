@@ -30,11 +30,11 @@
   <img width="400" height="300" src="https://raw.githubusercontent.com/afsharino/B.SC-Students/main/images/greedy-spider.jpg" />
   
  <a href="https://github.com/afsharino/Youtube-Data-Analysis">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=afsharino&repo=Youtube-Data-Analysis&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Youtube-Data-Analysis&theme=tokyonight" />
 </a>
   
   <a href="https://github.com/afsharino/B.SC-Students/tree/main/01.%20Introduction%20To%20Programming/Greedy-Spider">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=afsharino&repo=B.SC-Students&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=B.SC-Students&theme=tokyonight" />
 </a>
   
 
@@ -71,8 +71,8 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afsharino&theme=jolly&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=jolly" width="400" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&theme=jolly&show_icons=true" width="410"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=jolly" width="400" />
 </p>
 
 ---
