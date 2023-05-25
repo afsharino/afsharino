@@ -71,8 +71,8 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&theme=tokyonight&show_icons=true" width="410"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight" width="410" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="410"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="410" />
 </p>
 
 ---
