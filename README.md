@@ -51,7 +51,7 @@
 </p>
 <br />
 <p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">  
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">  
 <img alt="Python" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Python-logo.png" /></a>
 <img alt="java" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Java-logo.png" />
 <img alt="cpp" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/C%2B%2B_Logo.png" />
