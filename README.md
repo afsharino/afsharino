@@ -85,7 +85,7 @@
 <img alt="Jupyter" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Jupyter_logo.png" /></a>
 
 <a href="https://docs.conda.io/en/latest/" target="_blank" rel="noopener noreferrer">
-<img alt="conda" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/conda_logo.png" /></a>
+<img alt="conda" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/conda-logo.png" /></a>
 
 <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
 <img alt="numpy" width="50px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/numpy_Logo.png" /></a>
