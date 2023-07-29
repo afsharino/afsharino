@@ -115,8 +115,9 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="410"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="410" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afsharino&theme=tokyonight" width="420"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
 </p>
 
 
