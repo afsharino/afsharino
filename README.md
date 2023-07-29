@@ -25,11 +25,10 @@
 
 - 🌱 I’m currently focused on Machine learning, Deep learning and Fx trading.
 - 🔭 I’m looking for my first internship or job opportunity, [contact me](https://t.me/afsharino) if you are interested in collaborating.
-  
+    <br />
+    <br />
+    <h2 align="center">My favorite projects 💻</h2>
 </p>
-<br />
-
-<h2 align="center">My favorite projects 💻</h2>
 <br />
 
 <p align="center">
@@ -43,13 +42,12 @@
   <a href="https://github.com/afsharino/B.SC-Students/tree/main/01.%20Introduction%20To%20Programming/Greedy-Spider">
   <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=B.SC-Students&theme=tokyonight" />
 </a>
-
-<br />
-<br />
-<p>
-<h3 align="center"> Languages and Tools</h3>
+    <br />
+    <br />
+    <h3 align="center"> Languages and Tools 🔧💾</h3>
 </p>
 <br />
+
 <p align="center">
 <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">  
 <img alt="Python" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Python-logo.png" /></a>
@@ -107,19 +105,26 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
 <img alt="Git" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Git-Icon-1788C.png" /></a>
-
+<br />
+<br />
+<h2 align="center">Statistics 📈</h2>
 </p>
 <br />
 
----
-
-<br />
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afsharino&theme=tokyonight" width="420"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
 </p>
 
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsharino&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</p>
+
+
+<!--<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=afsharino&theme=discord" />
+</p>-->
 
 <!--
 **afsharino/afsharino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
