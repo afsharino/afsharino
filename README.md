@@ -107,7 +107,7 @@
 <img alt="Git" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Git-Icon-1788C.png" /></a>
 <br />
 <br />
-<h2 align="center">Statistics 📈</h2>
+<h2 align="center">Statistics 📊 📈</h2>
 </p>
 <br />
 
