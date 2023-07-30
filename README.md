@@ -57,7 +57,7 @@
 </a>
     <br />
     <br />
-    <h3 align="center"> Languages and Tools 🔧💾</h3>
+    <h3 align="center"> Languages and Tools 💾</h3>
 </p>
 <br />
 <!--
