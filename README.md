@@ -1,4 +1,4 @@
-![image](https://github.com/afsharino/afsharino/assets/94616678/f29c50c6-bafd-459f-9851-c2a408df8389)![image](https://github.com/afsharino/afsharino/assets/94616678/8ecbc3cc-1ce7-40c9-889a-0afcf0b8e569)<p>
+<p>
     <img w src="https://github.com/afsharino/afsharino/raw/main/images/banners/readme_banner.png" />
 </p>
 
