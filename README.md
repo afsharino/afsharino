@@ -23,8 +23,8 @@
 <p align="center">
     A 4th-year computer science student at <a href= "https://um.ac.ir/#">Ferdowsi University of Mashhad</a>, I'm interested in AI and its applications in financial markets.
 
-- 🌱 I’m currently focused on Machine learning, Deep learning and Fx trading.
-- 🔭 I’m looking for my first internship or job opportunity, [contact me](https://t.me/afsharino) if you are interested in collaborating.
+- 🌱 I’m currently focused on Machine learning, Deep learning, and Fx trading.
+- 🔭 I’m looking for an internship or job opportunity, [contact me](https://t.me/afsharino) if you are interested in collaborating.
     <br />
     <br />
     <h2 align="center">My favorite projects 💻</h2>
