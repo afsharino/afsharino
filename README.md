@@ -245,7 +245,7 @@ _______________________________________Previous format__________________________
 <details>
     <summary>Profile Views 👁️</summary>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=afsharino&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+    <img src="https://komarev.com/ghpvc/?username=afsharino&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
 </details>
 <p align="center">
     <img alt="github cat gif" width="600" height="450" src="https://github.com/afsharino/afsharino/blob/main/images/animated/daftpunktocat-thomas.gif">
