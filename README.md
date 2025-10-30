@@ -23,14 +23,29 @@
 </p>
 <br />
 
-<p align="center">
-    A 4th-year computer science student at <a href= "https://um.ac.ir/#">Ferdowsi University of Mashhad</a>, I'm interested in AI and its applications in financial markets.
+<p align="left">
+    Hey there! I'm Mohammad — I hold a <b>B.Sc. in Computer Science</b> from 
+<a href="https://um.ac.ir/#"><b>Ferdowsi University of Mashhad</b></a>, and I am currently pursuing a 
+<b>M.Sc. in Computer Engineering (Artificial Intelligence)</b> at 
+<a href="https://kntu.ac.ir/"><b>K. N. Toosi University of Technology</b></a>.
 
-- 🌱 I’m currently focused on Machine learning, Deep learning, and Fx trading.
-- 🔭 I’m looking for an internship or job opportunity, [contact me](https://t.me/afsharino) if you are interested in collaborating.
-    <br />
-    <br />
-    <h2 align="center">My favorite projects 💻</h2>
+My research and technical interests lie in <b>Computer Vision</b>, with a focus on 
+<b>Vision-Language Models (VLMs)</b> and multimodal learning. 
+I actively explore state-of-the-art architectures such as <b>CLIP</b>, <b>YOLO</b>, and 
+<b>diffusion-based vision systems</b>, aiming to build robust, real-world AI solutions.
+
+Outside academia, I am a <b>lifelong learner in financial markets</b>. 
+While I don’t trade actively, I enjoy studying market dynamics and analyzing trends as an intellectual pursuit.
+
+I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>, and 
+<b>freelance or part-time roles</b> in AI, Computer Vision, or related domains.
+
+📫 <b>Contact:</b> 
+<a href="https://t.me/afsharino">Telegram</a> | 
+<a href="https://linkedin.com/in/afsharino">LinkedIn</a>
+<br />
+<br />
+<h2 align="center">My favorite projects 💻</h2>
 </p>
 <br />
 
