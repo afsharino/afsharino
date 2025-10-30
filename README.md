@@ -138,10 +138,10 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <!-- Development Environment -->
 <p align="center"><strong>Development Environment & Editors</strong></p>
 <p align="center">
-  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Jupyter_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.conda.io/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/conda-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/vscode_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/archlinux-logo.png" width="50" /></a>
+  <a href="https://jupyter.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/jupyter-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/vscode-logo.webp" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://colab.research.google.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/google-colaboratory-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vim.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/vim-logo.svg" width="50" /></a>
 </p>
 <br />
 <h2 align="center">Statistics 📊 </h2>
