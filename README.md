@@ -4,16 +4,19 @@
 
 <p align="center">
     <a href="https://t.me/afsharino">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
     <a href="mailto:mohammadafshari.fum.ac.ir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/afsharino?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1aMkcKXtRjCK27sjKAFWDQ%3D%3D">      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/afsharino?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1aMkcKXtRjCK27sjKAFWDQ%3D%3D"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
     <a href="https://www.instagram.com/lmohammadafsharil/">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9d4edd&color=9d4edd" alt="Instagram" /></a>&nbsp;
     <a href="https://medium.com/@mohammadafshari">
-    <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg" /></a>&nbsp;
+    <img alt="Static Badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"></a>&nbsp;
     <a href="https://www.kaggle.com/mohammadafshari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
+    <a href="https://gitlab.com/afsharino">
+    <img src="https://img.shields.io/badge/gitlab-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=orange&color=orange" alt="GitLab" /></a>&nbsp;
     <br />
     <br />
     <h2 align="center">About me 😇</h2>
