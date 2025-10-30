@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/gitlab-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=orange&color=orange" alt="GitLab" /></a>&nbsp;
     <br />
     <br />
-    <h2 align="center">About me 😇</h2>
+    <h2 align="center">About me 👨🏻‍💻</h2>
 </p>
 <br />
 
@@ -75,54 +75,9 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 </a>
     <br />
     <br />
-    <h3 align="center"> Languages and Tools 💾🛠️ </h3>
+    <h3 align="center"> Tech Stack 🛠️ </h3>
 </p>
 <br />
-<!--
-_______________________________________Previous format_______________________________________
-<p align="center">
-<a href="https://www.python.org/" target="blank" rel="noopener noreferrer">  
-<img alt="Python" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Python-logo.png" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">    
-<img alt="java" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Java-logo.png" /></a> 
-<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">    
-<img alt="cpp" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/C%2B%2B_Logo.png" /></a>
-<a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
-<img alt="c" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/C_Logo.png" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-<img alt="tensorflow" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/Tensorflow_logo.png" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-<img alt="pytorch" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/PyTorch_logo.png" /></a>
-<a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-<img alt="keras" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/Keras_logo.png" /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
-<img alt="scikit-learn" width="70px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/Scikit_learn_logo.png" /></a>
-<a href="https://kde.org/plasma-desktop/" target="_blank" rel="noopener noreferrer">
-<img alt="kde-plasma" width="50px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/kde-logo.png" /></a>
-<a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
-<img alt="arch" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/archlinux-logo.png" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-<img alt="Jupyter" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Jupyter_logo.png" /></a>
-<a href="https://docs.conda.io/en/latest/" target="_blank" rel="noopener noreferrer">
-<img alt="conda" width="40px" src="https://github.com/afsharino/afsharino/blob/main/images/logos/conda-logo.png" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-<img alt="numpy" width="50px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/numpy_Logo.png" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-<img alt="pandas" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/pandas_Logo.png" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-<img alt="matplotlib" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/matplot_Logo.png" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-<img alt="seaborn" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/seaborn_Logo.png" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-<img alt="vscode" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/vscode_Logo.png" /></a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-<img alt="GitHub" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/github_Logo.png" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-<img alt="Git" width="40px" src="https://github.com/afsharino/afsharino/raw/main/images/logos/Git-Icon-1788C.png" /></a>
-<br />
-<br />
-<h2 align="center">Statistics 📊 </h2>
-</p> -->
 
 <table align="center">
     <tr>
