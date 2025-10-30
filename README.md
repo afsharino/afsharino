@@ -143,6 +143,16 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <a href="https://colab.research.google.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/google-colaboratory-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.vim.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/development-environments/vim-logo.svg" width="50" /></a>
 </p>
+
+<!-- Other Tools & Technologies-->
+<p align="center"><strong>Other Tools & Technologies</strong></p>
+<p align="center">
+  <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/other/conda-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/other/huggingface-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.latex-project.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/other/latex-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://grok.com/chat"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/other/grok-logo.png" width="50" /></a>
+</p>
+
 <br />
 <h2 align="center">Statistics 📊 </h2>
 <br />
