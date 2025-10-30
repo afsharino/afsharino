@@ -119,6 +119,15 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <a href="https://garudalinux.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/garudalinux-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<!-- DevOps & Version Control -->
+<p align="center"><strong>DevOps & Version Control</strong></p>
+<p align="center">
+  <a href="https://www.docker.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/devops-version-control/docker-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/devops-version-control/git-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/devops-version-control/github-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/afsharino"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/devops-version-control/gitlab-logo.gif" width="50" /></a>
+</p>
+
 <!-- Development Environment -->
 <p align="center"><strong>Development Environment & Editors</strong></p>
 <p align="center">
@@ -126,15 +135,6 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <a href="https://docs.conda.io/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/conda-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/vscode_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/archlinux-logo.png" width="50" /></a>
-</p>
-
-<!-- DevOps & Version Control -->
-<p align="center"><strong>DevOps & Version Control</strong></p>
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Git-Icon-1788C.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/github-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/docker-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/mysql-icon.svg" width="50" /></a>
 </p>
 <br />
 <h2 align="center">Statistics 📊 </h2>
