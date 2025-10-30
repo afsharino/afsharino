@@ -102,10 +102,11 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <!-- Data Science & Visualization -->
 <p align="center"><strong>Data Science & Visualization</strong></p>
 <p align="center">
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/numpy_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/pandas_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/matplot_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/seaborn_Logo.png" width="50" /></a>
+  <a href="https://numpy.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/numpy-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/pandas-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/matplot-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/seaborn-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://plotly.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/plotly-logo.png" width="50" /></a>
 </p>
 
 <!-- Development Environment -->
