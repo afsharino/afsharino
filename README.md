@@ -82,10 +82,11 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <!-- Languages -->
 <p align="center"><strong>Programming/Scripting Languages</strong></p>
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/python-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/java-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/cpp-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codeblocks.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/C_Logo.png" width="50" /></a>
+  <a href="https://www.python.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/python-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/en/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/java-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/cpp-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codeblocks.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/c-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codeblocks.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/bash-logo.svg" width="50" /></a>
 </p>
 
 <!-- AI/ML Frameworks -->
