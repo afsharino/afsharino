@@ -1,5 +1,5 @@
 <p>
-    <img w src="https://github.com/afsharino/afsharino/raw/main/images/banners/readme_banner.png" />
+    <img w src="https://github.com/afsharino/afsharino/blob/main/images/banners/terminal-banner.gif" />
 </p>
 
 <p align="center">
