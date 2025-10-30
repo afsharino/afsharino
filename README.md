@@ -109,6 +109,17 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <a href="https://plotly.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/data-science-visualization/plotly-logo.png" width="50" /></a>
 </p>
 
+<!-- Operating System -->
+<p align="center"><strong>Operating System</strong></p>
+<p align="center">
+  <a href="https://archlinux.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/archlinux-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.debian.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/debian-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.debian.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/debian-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://manjaro.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/manjaro-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/ubuntu-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://garudalinux.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/garudalinux-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <!-- Development Environment -->
 <p align="center"><strong>Development Environment & Editors</strong></p>
 <p align="center">
