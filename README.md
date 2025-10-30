@@ -128,6 +128,13 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <a href="https://gitlab.com/afsharino"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/devops-version-control/gitlab-logo.gif" width="50" /></a>
 </p>
 
+<!-- Database -->
+<p align="center"><strong>Database</strong></p>
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/databases/mysql-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/databases/postgres-logo.gif" width="50" /></a>
+</p>
+
 <!-- Development Environment -->
 <p align="center"><strong>Development Environment & Editors</strong></p>
 <p align="center">
