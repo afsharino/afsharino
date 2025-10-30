@@ -114,7 +114,6 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <p align="center">
   <a href="https://archlinux.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/archlinux-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.debian.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/debian-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.debian.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/debian-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://manjaro.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/manjaro-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/ubuntu-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://garudalinux.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/operating-systems/garudalinux-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
