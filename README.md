@@ -75,10 +75,56 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 </a>
     <br />
     <br />
-    <h3 align="center"> Tech Stack 🛠️ </h3>
+    <h2 align="center"> Tech Stack 🛠️ </h2>
 </p>
 <br />
 
+<!-- Languages -->
+<p align="center"><strong>Programming/Scripting Languages</strong></p>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/python-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/java-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/cpp-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codeblocks.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/C_Logo.png" width="50" /></a>
+</p>
+
+<!-- AI/ML Frameworks -->
+<p align="center"><strong>AI & ML Frameworks</strong></p>
+<p align="center">
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Tensorflow_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/PyTorch_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Keras_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Scikit_learn_logo.png" width="50" /></a>
+</p>
+
+<!-- Data Science & Visualization -->
+<p align="center"><strong>Data Science & Visualization</strong></p>
+<p align="center">
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/numpy_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/pandas_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/matplot_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/seaborn_Logo.png" width="50" /></a>
+</p>
+
+<!-- Development Environment -->
+<p align="center"><strong>Development Environment & Editors</strong></p>
+<p align="center">
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Jupyter_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.conda.io/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/conda-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/vscode_Logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/archlinux-logo.png" width="50" /></a>
+</p>
+
+<!-- DevOps & Version Control -->
+<p align="center"><strong>DevOps & Version Control</strong></p>
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Git-Icon-1788C.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/github-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/docker-icon.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/animated/mysql-icon.svg" width="50" /></a>
+</p>
+
+<br />
 <table align="center">
     <tr>
         <td align="center" width="96">
