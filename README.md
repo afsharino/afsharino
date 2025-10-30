@@ -84,18 +84,19 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <p align="center">
   <a href="https://www.python.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/python-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/en/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/java-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/cpp-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codeblocks.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/c-logo.gif" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codeblocks.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/bash-logo.svg" width="50" /></a>
+  <a href="https://isocpp.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/cpp-logo.svg" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://gnu.org/software/bash/bash.html"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/languages/bash-logo.svg" width="50" /></a>
 </p>
 
 <!-- AI/ML Frameworks -->
 <p align="center"><strong>AI & ML Frameworks</strong></p>
 <p align="center">
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Tensorflow_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/PyTorch_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Keras_logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/afsharino/afsharino/main/images/logos/Scikit_learn_logo.png" width="50" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/ai-frameworks/Tensorflow-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/ai-frameworks/pyTorch-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/ai-frameworks/keras-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/ai-frameworks/scikitlearn-logo.png" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://github.com/afsharino/afsharino/blob/main/images/tech-stack/ai-frameworks/opencv-logo.png" width="50" /></a>
 </p>
 
 <!-- Data Science & Visualization -->
