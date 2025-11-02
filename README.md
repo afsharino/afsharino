@@ -70,8 +70,8 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Trend-extraction-from-news&theme=tokyonight" />
 </a>
   
-  <a href="https://github.com/afsharino/B.SC-Students/tree/main/01.%20Introduction%20To%20Programming/Greedy-Spider">
-  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=B.SC-Students&theme=tokyonight" />
+  <a href="https://github.com/afsharino/Freelance-Projects/tree/main/Redeemer-Bot">
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Redeemer-Bot&theme=tokyonight" />
 </a>
     <br />
     <br />
