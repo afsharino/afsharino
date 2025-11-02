@@ -71,7 +71,7 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 </a>
   
   <a href="https://github.com/afsharino/Freelance-Projects/tree/main/Redeemer-Bot">
-  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Redeemer-Bot&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Freelance-Projects&theme=tokyonight" />
 </a>
     <br />
     <br />
