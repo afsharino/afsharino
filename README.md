@@ -50,8 +50,8 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 <br />
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/afsharino/afsharino/blob/main/images/favourite%20projects/esam.png" />
-  <img width="400" height="300" src="https://github.com/afsharino/afsharino/blob/main/images/favourite%20projects/butter-robot.jpg" />
+  <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/esam.jpg" />
+  <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/capstone-project.jpg" />
   
  <a href="https://github.com/afsharino/ICDS-Internship/tree/main/07.Image%20Processing/E-commerce%20product%20image%20classification">
   <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=ICDS-Internship&theme=tokyonight" />
@@ -63,8 +63,8 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 </p>
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/afsharino/B.SC-Students/raw/main/images/youtube.jpg" />
-  <img width="400" height="300" src="https://raw.githubusercontent.com/afsharino/B.SC-Students/main/images/greedy-spider.jpg" />
+  <img width="400" height="400" src="https://github.com/afsharino/B.SC-Students/raw/main/images/youtube.jpg" />
+  <img width="400" height="400" src="https://raw.githubusercontent.com/afsharino/B.SC-Students/main/images/greedy-spider.jpg" />
   
  <a href="https://github.com/afsharino/Youtube-Data-Analysis">
   <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Youtube-Data-Analysis&theme=tokyonight" />
