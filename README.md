@@ -54,7 +54,7 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
   <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/capstone-project.jpg" />
   
  <a href="https://github.com/afsharino/ICDS-Internship/tree/main/07.Image%20Processing/E-commerce%20product%20image%20classification">
-  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=ICDS-Internship&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Undergraduate-Capstone-Project&theme=tokyonight" />
 </a>
   
   <a href="https://github.com/afsharino/Butter-Robot">
