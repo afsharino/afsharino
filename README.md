@@ -63,11 +63,11 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 </p>
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/afsharino/B.SC-Students/raw/main/images/youtube.jpg" />
+  <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/hamrah-logo.png" />
   <img width="400" height="400" src="https://raw.githubusercontent.com/afsharino/B.SC-Students/main/images/greedy-spider.jpg" />
   
- <a href="https://github.com/afsharino/Youtube-Data-Analysis">
-  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Youtube-Data-Analysis&theme=tokyonight" />
+ <a href="https://github.com/afsharino/Trend-extraction-from-news">
+  <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Trend-extraction-from-news&theme=tokyonight" />
 </a>
   
   <a href="https://github.com/afsharino/B.SC-Students/tree/main/01.%20Introduction%20To%20Programming/Greedy-Spider">
