@@ -64,7 +64,7 @@ I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>
 
 <p align="center">
   <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/hamrah-logo.png" />
-  <img width="400" height="400" src="https://raw.githubusercontent.com/afsharino/B.SC-Students/main/images/greedy-spider.jpg" />
+  <img width="400" height="400" src="https://github.com/afsharino/afsharino/blob/main/images/favourite-projects/capthcha-logo.png" />
   
  <a href="https://github.com/afsharino/Trend-extraction-from-news">
   <img align="" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=afsharino&repo=Trend-extraction-from-news&theme=tokyonight" />
