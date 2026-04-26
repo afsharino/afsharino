@@ -30,7 +30,7 @@
 <a href="https://kntu.ac.ir/"><b>K. N. Toosi University of Technology</b></a>.
 
 My research and technical interests lie in <b>Computer Vision</b>, with a focus on 
-<b>Vision-Language Models (VLMs)</b> and multimodal learning. 
+<b>3D Scene Generation</b> and multimodal learning. 
 I actively explore state-of-the-art architectures such as <b>CLIP</b>, <b>YOLO</b>, and 
 <b>diffusion-based vision systems</b>, aiming to build robust, real-world AI solutions.
 
