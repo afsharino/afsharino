@@ -38,7 +38,7 @@ Outside academia, I am a <b>lifelong learner in financial markets</b>.
 While I don’t trade actively, I enjoy studying market dynamics and analyzing trends as an intellectual pursuit.
 
 I’m open to <b>scientific collaborations</b>, <b>open-source contributions</b>, and 
-<b>freelance or part-time roles</b> in AI, Computer Vision, or related domains.
+<b>freelance or full-time roles</b> in AI Engineering, ML Engineering, DevOps Engineering or related domains.
 
 📫 <b>Contact:</b> 
 <a href="https://t.me/afsharino">Telegram</a> | 
